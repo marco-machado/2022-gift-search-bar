@@ -18,6 +18,8 @@ If the search term gets reset back to an empty string, clear the search suggesti
 
 https://youtu.be/avf8OyNDJfo
 
+## Improvements
+
 ## Author
 
 Maciej Pędzich (Mac):
